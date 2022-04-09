@@ -1,0 +1,1 @@
+he cambiado la funcion de la lectura de archivos de texto, para poder ejecutarlo y probar las funcionalidades hay que poner los ficheros de datos en la carpeta datos, y poner el nombre de ficheros en la funcion load de pruebacronologia.cpp.
